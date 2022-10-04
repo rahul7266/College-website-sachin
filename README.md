@@ -1,6 +1,5 @@
-# college-website
-This is source code of frontend of my college website made using HTML, CSS, Javascript
-
+# **College-Website**
+<h2> This is source code of frontend of my college website made using HTML, CSS, Javascript </h2>
 <div align="center">
 <h1> College Website </h1>
 
@@ -8,10 +7,7 @@ This is source code of frontend of my college website made using HTML, CSS, Java
 
 </div>
 
-
-
-
-- Anyone can add any type of valid html-css web page depends on you.
+- Anyone can add any type of valid html-css web page depends on you, what do you want to add.
 
 - Do not just re-edit the file or make some small changes this kind of PRs will not be accepted.
 
@@ -114,9 +110,8 @@ We're happy to merge valid pull requests to this repository !
 To get approval of the pull request much quicker (`Follow Me`)🚀
 '''
 ```
-<a align="center" href="https://github.com/sachingupta63"><kbd><img src="https://avatars3.githubusercontent.com/sachingupta63?size=100" width="100px;" alt=""/></kbd><br /><sub><b>Kunwar Nahush Singh</b></sub></a><br />
-
-`For doubts contact kunwar.19229@knit.ac.in`
+<a align="center" href="https://github.com/sachingupta63"><kbd><img src="https://avatars3.githubusercontent.com/sachingupta63?size=100" width="100px;" alt=""/></kbd><br /><sub><b>Sachin Gupta </b></sub></a><br />
+`For doubts contact sachin.19249@knit.ac.in`
 ### Happy coding fellas!!💕✨
 
 
